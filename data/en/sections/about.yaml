@@ -7,29 +7,31 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
-designation: Software Engineer
-# your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# my designation
+designation: Chief Innovation Officer
 
-# your resume. this file path should be relative to you "static" directory
+# my company information
+company:
+  name: HALOSIS
+  url: "https://www.halosis.co.id"
+
+# my resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
-# a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+# a summary about me
+summary: 'Hi I am Richard Tirtadji,
+A simple guy who happen to love technology. Ever since my early career I have been drawn toward new tech. I love playing with gadget such as camera, mobile device, IoT, electronics device and off course love to code. The only other hobby that does not include technology is CAR. I love modifiying car from engine, suspension, and bodykit.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "rtirtadji@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/ranrinc"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -52,16 +54,16 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Leadership
-  percentage: 85
+  percentage: 95
   color: blue
 - name: Team Work
   percentage: 90
   color: yellow
 - name: Communication
-  percentage: 85
+  percentage: 90
   color: pink
 - name: Hard Working
-  percentage: 85
+  percentage: 90
   color: green
 - name: Fast Learner
   percentage: 85

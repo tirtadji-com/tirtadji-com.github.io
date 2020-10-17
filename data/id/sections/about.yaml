@@ -1,35 +1,37 @@
 # section information
 section:
-  name: About
+  name: Tentang Saya
   id: about
   enable: true
   weight: 1
   showOnNavbar: true
   template: sections/about.html
 
-# your designation
-designation: Software Engineer
-# your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# my designation
+designation: Chief Innovation Officer
 
-# your resume. this file path should be relative to you "static" directory
+# my company information
+company:
+  name: HALOSIS
+  url: "https://www.halosis.co.id"
+
+# my resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
-# a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+# a summary about me
+summary: 'Halo nama saya Richard Tirtadji,
+Seorang yang simpel dan sangat menggemari teknologi. Sejak dari awal karir saya, saya selalu tertarik khususnya untuk teknologi baru. Saya juga senang bermain gadget teknologi seperti kamera, HP, IoT, alat yang berbau teknologi dan tentu saja suka dengan koding. Dan satu-satunya hobby yang bukan terkait teknologi adalah MOBIL. Saya juga suka memodifikasi mobil dari mesin, suspensi hingga body kit.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "rtirtadji@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/ranrinc"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -51,22 +53,22 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
+- name: Kepemimpinan
+  percentage: 95
   color: blue
-- name: Team Work
+- name: Bekerja dengan Tim
   percentage: 90
   color: yellow
-- name: Communication
-  percentage: 85
+- name: Komunikasi
+  percentage: 90
   color: pink
-- name: Hard Working
-  percentage: 85
+- name: Kerja Keras
+  percentage: 90
   color: green
-- name: Fast Learner
+- name: Belajar Cepat
   percentage: 85
   color: sky
-- name: Problem Solving
+- name: Menyelesaikan Masalah
   percentage: 85
   color: orange
 # you can also provide color code instead of pre-defined color name
