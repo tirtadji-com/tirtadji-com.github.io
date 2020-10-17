@@ -1,15 +1,18 @@
-# some information about I
-author:
-  name: "Richard Tirtadji"
-  # nickname: "Emruz"
-  image: "images/profile-image.jpg"
-  # give my contact information. they will be used in the footer
-  contactInfo:
-    email: "richard@tirtadji.com"
-    phone: "+62817128466"
-  # a summary of what I do
-  summary:
-  - Saya seorang developer
-  - Saya memakai Laravel
-  - Saya suka dengan projek-projek yang menyenangkan
-  - Saya seorang CIO
+# some information about you
+name: "Richard Tirtadji"
+nickname: "ranrinc"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Halo, saya"
+image: "images/profile-image.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "richard@tirtadji.com"
+  phone: "+62817128466"
+
+# some summary about what you do
+summary:
+  - Saya seorang Laravel Developer
+  - Saya seorang DevOps
+  - Saya suka Cloud
+  - Saya membangun projek HALOSIS
+  - Projek-projek yang seru sangat menarik buat saya
