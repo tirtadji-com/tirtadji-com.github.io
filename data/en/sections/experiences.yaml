@@ -11,54 +11,66 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: HALOSIS
+    url: "https://www.halosis.co.id"
+    location: Jakarta, Indonesia
+    overview: HALOSIS main goal is to build a technology that could improve the success and lives of online sellers, and to create a fast, hassle-free and secure buying process for every online customers. 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Chief Innovation Officer
+    start: Feb 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    # give some points about what was my responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - 2nd in command after our CTO
+    - Handling all of HALOSIS technology project
+    - Make planning and deploy the project
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Excellence Asia
+    url: "https://www.excellence.asia"
+    location: Jakarta, Indonesia
+    overview: Excellence Asia mission is to help business and individual to find the right training and competent trainer according to their needs in an easier way
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Co Founder
+    start: Mar 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was my responsibilities at the company.
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Co Founder
+    - Help IT deployments
+    - Update the systems
+    - Maintenance the servers
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: PT Pison Teknologi
+    url: "#"
+    location: Jakarta, Indonesia
+    overview: The goal is to bring the best communication infrastructure for Sentul City Area
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Chief Technology Officer
+    start: Oct 2011
+    end: Apr 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was my responsibilities at the company.
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Manage the deployment
+    - Making the decision of picking up the right technology
+
+- company:
+    name: KIOSTIX
+    url: "https://www.kiostix.com"
+    location: Jakarta, Indonesia
+    overview: KiosTix is one of the entertainment ticket portal companies in Indonesia that presents a complete range of services and solutions ranging from ticket management, distribution, marketing, sales to provision of event support facilities covering both local and global scale
+  positions:
+  - designation: Chief Operating Officer
+    start: Mar 2012
+    end: Mar 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was my responsibilities at the company.
+    responsibilities:
+    - Handling ticket operation for internal
+    - Handling ticket operation for external

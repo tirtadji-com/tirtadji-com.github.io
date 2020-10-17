@@ -11,54 +11,66 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    name: HALOSIS
+    url: "https://www.halosis.co.id"
+    location: Jakarta, Indonesia
+    overview: Halosis hadir membentuk teknologi dengan tujuan meningkatkan kesejahteraan para penjual online, dan memudahkan proses pembelian yang aman bagi para konsumen produk yang dijual online.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Chief Innovation Officer
+    start: Feb 2019
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    # give some points about what was my responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Orang kedua dalam komando setelah CTO
+    - Menangani semua proyek teknologi HALOSIS
+    - Buat perencanaan dan terapkan proyek
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Excellence Asia
+    url: "https://www.excellence.asia"
+    location: Jakarta, Indonesia
+    overview: Misi Excellence Asia adalah membantu bisnis dan individu untuk menemukan pelatihan yang tepat dan pelatih yang kompeten sesuai dengan kebutuhan mereka dengan cara yang lebih mudah
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Co Founder
+    start: Mar 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was my responsibilities at the company.
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Co Founder
+    - Bantu penerapan TI
+    - Perbarui sistem
+    - Perawatan server
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.intern.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: PT Pison Teknologi
+    url: "#"
+    location: Jakarta, Indonesia
+    overview: Tujuannya untuk menghadirkan infrastruktur komunikasi terbaik untuk Kawasan Sentul City
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Chief Technology Officer
+    start: Oct 2011
+    end: Apr 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was my responsibilities at the company.
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Kelola infrastruktur dan penerapannya
+    - Membuat keputusan untuk mengambil teknologi yang tepat untuk Sentul City
+
+- company:
+    name: KIOSTIX
+    url: "https://www.kiostix.com"
+    location: Jakarta, Indonesia
+    overview: KiosTix merupakan salah satu perusahaan portal tiket hiburan di Indonesia yang menghadirkan rangkaian lengkap layanan dan solusi mulai dari pengelolaan tiket, distribusi, pemasaran, penjualan hingga penyediaan fasilitas pendukung acara baik skala lokal maupun global.
+  positions:
+  - designation: Chief Operating Officer
+    start: Mar 2012
+    end: Mar 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was my responsibilities at the company.
+    responsibilities:
+    - Menangani operasi tiket untuk internal
+    - Menangani operasi tiket untuk eksternal
