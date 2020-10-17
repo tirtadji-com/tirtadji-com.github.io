@@ -9,15 +9,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  fr:
-    languageName: Français
+  id:
+    languageName: Indonesia
     weight: 2
-  bn:
-    languageName: বাংলা
-    weight: 3
-  de: 
-    languageName: Deutsch
-    weight: 4
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: fr
