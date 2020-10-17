@@ -1,7 +1,7 @@
 # section information
 section:
-  name: 
-  id: Keahlian
+  name: Keahlian
+  id: skills
   enable: true
   weight: 2
   showOnNavbar: true
