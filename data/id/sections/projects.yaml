@@ -1,11 +1,10 @@
 # section information
 section:
-  name: Projets
+  name: Projects
   id: projects
   enable: true
   weight: 4
   showOnNavbar: true
-  template: sections/projects.html
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -13,10 +12,10 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professionnel
-  filter: "professionnel"
-- name: Ecole
-  filter: "ecole"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
 - name: Hobby
   filter: "hobby"
 
@@ -24,42 +23,42 @@ buttons:
 projects:
 - name: Kubernetes
   logo: images/projects/kubernetes.png
-  role: Contributeur
-  timeline: "Mars 2018 - Présent"
+  role: Contributor
+  timeline: "March 2018 - Present"
   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Planification et gestion des conteneurs de qualité production.
-  tags: ["professionnel", "kubernetes", "cloud"]
+  summary: Production-Grade Container Scheduling and Management.
+  tags: ["professional", "kubernetes", "cloud"]
 
 - name: Tensorflow
   logo: images/projects/tensorflow.png
-  role: Développeur
-  timeline: "Juin 2018 - Présent"
+  role: Developer
+  timeline: "Jun 2018 - Present"
   repo: https://github.com/tensorflow/tensorflow
   #url: ""
-  summary: Un cadre d'apprentissage machine à source ouverte pour tous.
-  tags: ["professionnel", "machine-learning","ecole"]
+  summary: An Open Source Machine Learning Framework for Everyone.
+  tags: ["professional", "machine-learning","academic"]
 
-- name: Un exemple d'article académique
-  role: Chef d'équipe
-  timeline: "Janvier 2017 - Novembre 2017"
+- name: A sample academic paper
+  role: Team Lead
+  timeline: "Jan 2017 - Nov 2017"
   url: "https://www.example.com"
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["ecole","iot"]
+  tags: ["academic","iot"]
 
 - name: Nocode
   logo: images/projects/no-code.png
-  role: Rien
+  role: Nothing
   timeline: "Oct 2019 - Dec 2019"
   repo: https://github.com/kelseyhightower/nocode
   #url: ""
-  summary: La meilleure façon de rédiger des demandes sûres et fiables. N'écrivez rien, ne déployez rien.
+  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
   tags: ["hobby", "fun"]
 
 - name: Toha
   logo: images/projects/toha.png
   role: Owner
-  timeline: "Juin 2019 - Présent"
+  timeline: "Jun 2019 - Present"
   repo: https://github.com/hossainemruz/toha
-  summary: Un thème Hugo pour le portfolio personnel.
-  tags: ["hobby","hugo","theme","professionnel"]
+  summary: A Hugo theme for personal portfolio.
+  tags: ["hobby","hugo","theme","professional"]

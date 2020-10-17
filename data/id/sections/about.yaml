@@ -1,6 +1,6 @@
 # section information
 section:
-  name: আমার-সম্পর্কে
+  name: About
   id: about
   enable: true
   weight: 1
