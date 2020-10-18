@@ -1,3 +1,3 @@
 ---
-title: Artikel
+title: Posts
 ---
